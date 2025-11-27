@@ -1,5 +1,5 @@
 <!-- =========================================
-     MEDU1122 — CAPYBARA × NEON PROFILE
+     MEDU1122
      Paste into: https://github.com/medu1122/medu1122/blob/main/README.md
 ========================================== -->
 
@@ -9,10 +9,18 @@
 </p>
 
 <!-- 🦫 Capybara neon gif -->
-<div align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/capybara.gif" width="180" style="display:inline-block; margin:0 12px;" />
-  <img src="https://media.tenor.com/MqZK7l4G9VAAAAAC/capybara-chill.gif" width="180" style="display:inline-block; margin:0 12px;" />
-</div>
+<p align="center" style="text-align:center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/2roX3uxz_68AAAAC/capybara.gif" />
+    <img 
+      src="https://media.tenor.com/2roX3uxz_68AAAAC/capybara.gif"
+      width="200"
+      style="display:block; margin-left:auto; margin-right:auto;"
+      alt="capybara chill gif"
+    />
+  </picture>
+</p>
+
 
 <h1 align="center">
   🟣🟦 Hello, I’m <b>medu1122</b> 🟦🟣
