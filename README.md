@@ -5,7 +5,7 @@
 
 <!-- 🔮 Neon wave banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff5ff,50:8a2be2,100:ff4dd2&height=210&section=header&text=medu1122&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=capybara%20in%20neon%20city&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff5ff,50:8a2be2,100:ff4dd2&height=210&section=header&text=medu1122&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- 🦫 Capybara neon gif -->
