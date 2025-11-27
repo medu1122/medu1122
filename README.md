@@ -134,9 +134,19 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=medu1122&background=0d1117&ring=0ff5ff&fire=ff4dd2&currStreakLabel=8a2be2&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=c9d1d9&border=8a2be2"
+    src="https://streak-stats.demolab.com?user=medu1122
+    &background=0d1117
+    &ring=0ff5ff
+    &fire=ff4dd2
+    &currStreakLabel=8a2be2
+    &currStreakNum=ffffff
+    &sideNums=ffffff
+    &sideLabels=ffffff
+    &dates=c9d1d9
+    &border=8a2be2"
   />
 </p>
+
 
 ---
 
