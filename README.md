@@ -122,12 +122,20 @@
 
 ## 📈 Neon stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=medu1122&show_icons=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=ff4dd2&border_color=8a2be2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medu1122&layout=compact&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&border_color=0ff5ff" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=medu1122&show_icons=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=ff4dd2&border_color=8a2be2"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=medu1122&layout=compact&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&border_color=0ff5ff"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=medu1122&background=0d1117&ring=0ff5ff&fire=ff4dd2&currStreakLabel=8a2be2&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=c9d1d9&border=8a2be2" />
+  <img
+    src="https://streak-stats.demolab.com?user=medu1122&background=0d1117&ring=0ff5ff&fire=ff4dd2&currStreakLabel=8a2be2&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=c9d1d9&border=8a2be2"
+  />
 </p>
 
 ---
@@ -142,10 +150,10 @@
 ## 🧩 Featured projects
 <p align="center">
   <a href="https://github.com/medu1122/project-alpha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=medu1122&repo=project-alpha&bg_color=0d1117&title_color=0ff5ff&text_color=ffffff&icon_color=ff4dd2&border_color=8a2be2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=medu1122&repo=projectPython&bg_color=0d1117&title_color=0ff5ff&text_color=ffffff&icon_color=ff4dd2&border_color=8a2be2" />
   </a>
   <a href="https://github.com/medu1122/project-beta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=medu1122&repo=project-beta&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&icon_color=0ff5ff&border_color=ff4dd2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=medu1122&repo=CAPTONE1&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&icon_color=0ff5ff&border_color=ff4dd2" />
   </a>
 </p>
 
