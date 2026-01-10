@@ -1,35 +1,36 @@
 <!-- =========================================
      MEDU1122
+     Paste into: https://github.com/medu1122/medu1122/blob/main/README.md
 ========================================== -->
 
-<!-- 🏮 Xianxia wave banner -->
+<!-- 🔮 Neon wave banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,45:0f766e,75:f59e0b,100:7f1d1d&height=210&section=header&text=medu1122%20%E2%80%A2%20%E4%BF%AE%E4%BB%99&fontSize=58&fontColor=fff7ed&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff5ff,50:8a2be2,100:ff4dd2&height=210&section=header&text=medu1122&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<!-- 🏮 Han Li (凡人修仙传) gif -->
+<!-- 🦫 Capybara neon gif -->
 <p align="center" style="text-align:center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[PASTE_HANLI_GIF_URL_HERE](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRodXpqejM1eWFubWdxaTU5cTBoMWs5N3J5aXd3cG8xZzR5M3A5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JQ6G9GuFuAf7j1v1fR/giphy.gif)" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/2roX3uxz_68AAAAC/capybara.gif" />
     <img 
-      src="[PASTE_HANLI_GIF_URL_HERE](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRodXpqejM1eWFubWdxaTU5cTBoMWs5N3J5aXd3cG8xZzR5M3A5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JQ6G9GuFuAf7j1v1fR/giphy.gif)"
-      width="220"
-      style="display:block; margin-left:auto; margin-right:auto; border-radius: 14px;"
-      alt=""
+      src="https://media.tenor.com/2roX3uxz_68AAAAC/capybara.gif"
+      width="200"
+      style="display:block; margin-left:auto; margin-right:auto;"
+      alt="capybara chill gif"
     />
   </picture>
 </p>
 
 
 <h1 align="center">
-  🏮🗡️ Hello, I’m <b>medu1122</b> 🗡️🏮
+  🟣🟦 Hello, I’m <b>medu1122</b> 🟦🟣
 </h1>
 
 <p align="center">
   <i>“Chill like a capybara, ship like a hacker.”</i>
 </p>
 
-<!-- ☁️ Ink-cloud divider -->
+<!-- ✨ Neon divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750099-2f4f0907-6c84-45a2-ae85-2b2c8ad7f7d5.gif" width="80%" />
 </p>
@@ -46,80 +47,80 @@
 
 ---
 
-## 🔗 Cultivation links
+## 🔗 Neon links
 <p align="center">
   <a href="https://medu1122.dev" target="_blank">
-    <img src="https://img.shields.io/badge/website-0f766e?style=for-the-badge&logo=google-chrome&logoColor=fff7ed"/>
+    <img src="https://img.shields.io/badge/website-0ff5ff?style=for-the-badge&logo=google-chrome&logoColor=000"/>
   </a>
   <a href="https://www.linkedin.com/in/medu/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0b0f14?style=for-the-badge&logo=linkedin&logoColor=f59e0b"/>
+    <img src="https://img.shields.io/badge/linkedin-8a2be2?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
   <a href="mailto:huynhthinh61@gmail.com">
-    <img src="https://img.shields.io/badge/email-7f1d1d?style=for-the-badge&logo=gmail&logoColor=fff7ed"/>
+    <img src="https://img.shields.io/badge/email-ff4dd2?style=for-the-badge&logo=gmail&logoColor=fff"/>
   </a>
   <a href="https://www.facebook.com/medu1122/" target="_blank">
-    <img src="https://img.shields.io/badge/social-111111?style=for-the-badge&logo=vercel&logoColor=0f766e"/>
+    <img src="https://img.shields.io/badge/social-111111?style=for-the-badge&logo=vercel&logoColor=0ff5ff"/>
   </a>
 </p>
 
 ---
 
-## 🧪 Tech stack (sect-approved)
+## 🧪 Tech stack (capybara-approved)
 
 ### 🗣 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=0b0f14" />
-  <img src="https://img.shields.io/badge/TypeScript-0f766e?style=for-the-badge&logo=typescript&logoColor=fff7ed" />
-  <img src="https://img.shields.io/badge/Python-7f1d1d?style=for-the-badge&logo=python&logoColor=fff7ed" />
+  <img src="https://img.shields.io/badge/JavaScript-0ff5ff?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-8a2be2?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-ff4dd2?style=for-the-badge&logo=python&logoColor=fff" />
 </p>
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/React-0b0f14?style=for-the-badge&logo=react&logoColor=f59e0b" />
-  <img src="https://img.shields.io/badge/Next.js-0b0f14?style=for-the-badge&logo=nextdotjs&logoColor=0f766e" />
-  <img src="https://img.shields.io/badge/Vite-0b0f14?style=for-the-badge&logo=vite&logoColor=7f1d1d" />
-  <img src="https://img.shields.io/badge/Tailwind-0b0f14?style=for-the-badge&logo=tailwindcss&logoColor=f59e0b" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=0ff5ff" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=8a2be2" />
+  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=ff4dd2" />
+  <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=0ff5ff" />
 </p>
 
 ### 🧠 Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-f59e0b?style=for-the-badge&logo=nodedotjs&logoColor=0b0f14" />
-  <img src="https://img.shields.io/badge/Express-0b0f14?style=for-the-badge&logo=express&logoColor=fff7ed" />
-  <img src="https://img.shields.io/badge/NestJS-0b0f14?style=for-the-badge&logo=nestjs&logoColor=7f1d1d" />
-  <img src="https://img.shields.io/badge/FastAPI-0b0f14?style=for-the-badge&logo=fastapi&logoColor=0f766e" />
-  <img src="https://img.shields.io/badge/REST%20API-0b0f14?style=for-the-badge&logo=postman&logoColor=f59e0b" />
+  <img src="https://img.shields.io/badge/Node.js-0ff5ff?style=for-the-badge&logo=nodedotjs&logoColor=000" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=ff4dd2" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=0ff5ff" />
+  <img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge&logo=postman&logoColor=8a2be2" />
 </p>
 
 ### 🗄 Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-0b0f14?style=for-the-badge&logo=postgresql&logoColor=0f766e" />
-  <img src="https://img.shields.io/badge/MySQL-0b0f14?style=for-the-badge&logo=mysql&logoColor=f59e0b" />
-  <img src="https://img.shields.io/badge/MongoDB-0b0f14?style=for-the-badge&logo=mongodb&logoColor=7f1d1d" />
-  <img src="https://img.shields.io/badge/Redis-0b0f14?style=for-the-badge&logo=redis&logoColor=0f766e" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=0ff5ff" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=8a2be2" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=ff4dd2" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=0ff5ff" />
 </p>
 
 ### ☁️ DevOps / Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-0f766e?style=for-the-badge&logo=docker&logoColor=fff7ed" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0b0f14?style=for-the-badge&logo=githubactions&logoColor=f59e0b" />
-  <img src="https://img.shields.io/badge/Nginx-0b0f14?style=for-the-badge&logo=nginx&logoColor=7f1d1d" />
-  <img src="https://img.shields.io/badge/Vercel-0b0f14?style=for-the-badge&logo=vercel&logoColor=0f766e" />
+  <img src="https://img.shields.io/badge/Docker-8a2be2?style=for-the-badge&logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=0ff5ff" />
+  <img src="https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=ff4dd2" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=0ff5ff" />
 </p>
 
 ### 🧰 Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-7f1d1d?style=for-the-badge&logo=git&logoColor=fff7ed" />
-  <img src="https://img.shields.io/badge/Linux-0b0f14?style=for-the-badge&logo=linux&logoColor=f59e0b" />
-  <img src="https://img.shields.io/badge/Postman-0b0f14?style=for-the-badge&logo=postman&logoColor=0f766e" />
-  <img src="https://img.shields.io/badge/Figma-0b0f14?style=for-the-badge&logo=figma&logoColor=7f1d1d" />
+  <img src="https://img.shields.io/badge/Git-ff4dd2?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=0ff5ff" />
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=ff4dd2" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=8a2be2" />
 </p>
 
-## ⚡ Sect aura counter
+## ⚡ Neon vibe counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=medu1122&style=for-the-badge&color=0f766e" />
+  <img src="https://komarev.com/ghpvc/?username=medu1122&style=for-the-badge&color=0ff5ff" />
 </p>
 
-<!-- 🌊 Footer wave (ink → jade → gold) -->
+<!-- 🌊 Footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:0b0f14,85:0f766e,100:f59e0b&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4dd2,50:8a2be2,100:0ff5ff&height=140&section=footer" />
 </p>
