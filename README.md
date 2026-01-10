@@ -118,57 +118,6 @@
   <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=8a2be2" />
 </p>
 
----
-
-## 📈 Neon stats
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=medu1122&show_icons=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=ff4dd2&border_color=8a2be2"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=medu1122&layout=compact&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&border_color=0ff5ff"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=medu1122
-    &background=0d1117
-    &ring=0ff5ff
-    &fire=ff4dd2
-    &currStreakLabel=8a2be2
-    &currStreakNum=ffffff
-    &sideNums=ffffff
-    &sideLabels=ffffff
-    &dates=c9d1d9
-    &border=8a2be2"
-  />
-</p>
-
-
----
-
-## 🏆 Capybara trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=medu1122&theme=onestar&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 🧩 Featured projects
-<p align="center">
-  <a href="https://github.com/medu1122/project-alpha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=medu1122&repo=projectPython&bg_color=0d1117&title_color=0ff5ff&text_color=ffffff&icon_color=ff4dd2&border_color=8a2be2" />
-  </a>
-  <a href="https://github.com/medu1122/project-beta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=medu1122&repo=CAPTONE1&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&icon_color=0ff5ff&border_color=ff4dd2" />
-  </a>
-</p>
-
----
-
 ## ⚡ Neon vibe counter
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=medu1122&style=for-the-badge&color=0ff5ff" />
