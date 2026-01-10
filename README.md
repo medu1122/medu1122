@@ -10,12 +10,12 @@
 <!-- 🏮 Han Li (凡人修仙传) gif -->
 <p align="center" style="text-align:center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="PASTE_HANLI_GIF_URL_HERE" />
+    <source media="(prefers-color-scheme: dark)" srcset="[PASTE_HANLI_GIF_URL_HERE](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRodXpqejM1eWFubWdxaTU5cTBoMWs5N3J5aXd3cG8xZzR5M3A5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JQ6G9GuFuAf7j1v1fR/giphy.gif)" />
     <img 
-      src="PASTE_HANLI_GIF_URL_HERE"
+      src="[PASTE_HANLI_GIF_URL_HERE](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRodXpqejM1eWFubWdxaTU5cTBoMWs5N3J5aXd3cG8xZzR5M3A5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JQ6G9GuFuAf7j1v1fR/giphy.gif)"
       width="220"
       style="display:block; margin-left:auto; margin-right:auto; border-radius: 14px;"
-      alt="Han Li - A Mortal's Journey to Immortality gif"
+      alt=""
     />
   </picture>
 </p>
