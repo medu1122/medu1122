@@ -42,7 +42,7 @@
 - 💻 Strong in **frontend–backend integration**: API design, auth handling, and clean data flow architecture.
 - ⚙️ Focused on **scalable, developer-friendly setups** — from local environments (proxy/env/IP automation) to production structures.
 - 🛠️ Main stack: **React • Next.js • Vite • Node.js • Express • NestJS • PostgreSQL • MongoDB • Docker • Git**.
-- 🚀 Looking for **Full-Stack / Frontend / Backend Engineer Intern or Junior** roles to contribute and grow fast.
+- 🚀 Looking for **Full-Stack / Frontend / Backend Engineer Intern** roles to contribute and grow fast.
 - 📌 Current focus: **system design, performance optimization & cloud deployment**.
 
 ---
@@ -72,8 +72,6 @@
   <img src="https://img.shields.io/badge/JavaScript-0ff5ff?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-8a2be2?style=for-the-badge&logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-ff4dd2?style=for-the-badge&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=0ff5ff" />
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ff4dd2" />
 </p>
 
 ### 🎨 Frontend
@@ -82,7 +80,6 @@
   <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=8a2be2" />
   <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=ff4dd2" />
   <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=0ff5ff" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-111111?style=for-the-badge&logo=framer&logoColor=ff4dd2" />
 </p>
 
 ### 🧠 Backend
