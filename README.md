@@ -7,18 +7,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,45:0f766e,75:f59e0b,100:7f1d1d&height=210&section=header&text=medu1122%20%E2%80%A2%20%E4%BF%AE%E4%BB%99&fontSize=58&fontColor=fff7ed&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- 🐉 Cultivation vibe gif (you can swap link later) -->
+<!-- 🏮 Han Li (凡人修仙传) gif -->
 <p align="center" style="text-align:center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/2roX3uxz_68AAAAC/capybara.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="PASTE_HANLI_GIF_URL_HERE" />
     <img 
-      src="https://media.tenor.com/2roX3uxz_68AAAAC/capybara.gif"
-      width="200"
-      style="display:block; margin-left:auto; margin-right:auto;"
-      alt="capybara chill gif"
+      src="PASTE_HANLI_GIF_URL_HERE"
+      width="220"
+      style="display:block; margin-left:auto; margin-right:auto; border-radius: 14px;"
+      alt="Han Li - A Mortal's Journey to Immortality gif"
     />
   </picture>
 </p>
+
 
 <h1 align="center">
   🏮🗡️ Hello, I’m <b>medu1122</b> 🗡️🏮
