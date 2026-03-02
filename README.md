@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=8a2be2" />
 </p>
 
-## ⚡ Neon vibe counter
+## ⚡Count Visitor
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=medu1122&style=for-the-badge&color=0ff5ff" />
 </p>
