@@ -47,7 +47,7 @@
 
 ---
 
-## 🔗 Neon links
+## 🔗 Links
 <p align="center">
   <a href="https://medu1122.dev" target="_blank">
     <img src="https://img.shields.io/badge/website-0ff5ff?style=for-the-badge&logo=google-chrome&logoColor=000"/>
@@ -65,7 +65,7 @@
 
 ---
 
-## 🧪 Tech stack (capybara-approved)
+## 🧪 Tech stack
 
 ### 🗣 Languages
 <p align="left">
